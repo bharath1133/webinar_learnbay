@@ -1,0 +1,51 @@
+Learn bay notes-->25/11/23
+
+CPU(central processing unit)
+	Eg:intel i3,i5,i7,i9,i11 etc
+
+1.High level language(HLL)
+	-->More like technical less english
+	-->Fast but Platform dependent due to 'No virtual execution environment' like JVM 0r PVM(Python virtual machine)
+	-->Flow Developer-->High level program-->compiler/interpreter-->Assembly language(CPU)-->Assembler-->Machine code
+	-->Eg:C,C++
+
+Mid-level-language:-->Eg:Java
+
+2.Low level language(LLL)
+	-->More like english
+	-->Slow but Platform independent because of 'Virtual execution environment' like PVM orJVM
+	-->Flow Developer-->Low leve program-->compiler/interpreter-->bytecode-->virtual machine
+	-->Eg:Python
+
+
+Compiler vs Interpreter 
+	Compiler:A compiler is a special program that translates human readble programing language source code into machine code,Byte code,or another programming language.
+	And it checks the entire our source code at once and gives all the syntax errors/Compile time errors that we have.
+	Encoder is a device which is used to convert human readble code into machine readble i.e Binary language( 0's and 1's)
+	Output unit which converts machide code to human readble text.
+	The process is called is Encoding or Encryption or Hashing.
+	Eg:Compile type programming languages:C,C++,JAVA
+
+Debugger-->Helps to recognize the errors of a program and fix them.Eg:Debugging with compiler vs interpreter
+
+Interpreter-->checks the programm line by line. Eg:PYTHON,JAVASCRIPT
+
+
+Types errors:
+	1.Syntax or compilation errors:The errors which are detected/caught by a compiler/interpreter due to incorrect use of program itself.
+	2.Run time errors:Runtime error is a problem that isn't caught/detected before code runs but causes an issue that is caught during the program runs.
+	3.Logical errors:Logical error is something that isn't caught either at compile or runtime but which causes an issue.
+
+
+----------------------------------------------------------------------------------------------------
+
+Learn bay notes-->26/11/23
+
+Python by nitish drive link: https://drive.google.com/drive/folders/1rxBHw3aKvF6MVdGfhuQEFNXupPUg5Gm2
+https://web.classplusapp.com/login
+
+PYPI:Python package index(A repository of software packages for python programming language)
+PIP:python package installer(A package manager Used to upgrade,uninstall and install the package from PYPI)
+PVM:python virtual machine(understands the code) or runtime environment for executing a python code
+	
+
